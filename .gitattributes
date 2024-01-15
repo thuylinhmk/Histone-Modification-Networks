@@ -1,1 +1,2 @@
 *.py linguist-language=python
+analysis_and_plots/*.ipynb linguist-generated=true
