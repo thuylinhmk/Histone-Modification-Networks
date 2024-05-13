@@ -1,0 +1,17 @@
+[project]
+name = "Histone modification network analysis"
+version = "0.1"
+authors = [
+    { name = "Thuy Linh", email="linhnguyen2108.work@gmail.com},
+]
+description = "Network construction and Graph theory analysis"
+readme = "README.md"
+required-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/thuylinhmk/Histone-Modification-Networks"
